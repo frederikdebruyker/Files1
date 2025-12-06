@@ -3,7 +3,7 @@ specMinorVersion: 2
 meta:
     name: Files1
     image: project-files1
-    description: files
+    description: RAPIDS with CUDA 12.8.0
     labels: []
     createdOn: "2025-12-06T16:35:30Z"
     defaultBranch: main
